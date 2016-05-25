@@ -5,8 +5,9 @@ This guide contains all the information you need to create libraries for new par
 
 Our library coding principles:
 * Encapsulation - every component has it's own c++ class.
-* Modularity - code is often reused. We have create base classes which contain frequently used patterns.
+* Modularity - code is often reused. We have created base classes which contain frequently used patterns.
 * Readbility - our code must always be clear and readable to newcomers.
+* Credit - always reference and credit external code libraries you use or code snippets you copy.
 
 
 Repo Structure
