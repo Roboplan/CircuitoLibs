@@ -2,7 +2,8 @@ Circuito Library Generation Guide
 =================================
 
 This guide contains all the information you need to create libraries for new parts on circuito.
-We have created several guilelines for the creation of new libraries:
+
+Our library coding principles:
 * Encapsulation - every component has it's own c++ class.
 * Modularity - code is often reused. We have create base classes which contain frequently used patterns.
 * Readbility - our code must always be clear and readable to newcomers.
