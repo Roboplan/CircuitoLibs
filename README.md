@@ -1,7 +1,7 @@
 Circuito Library Generation Guide
 =================================
 
-This guide contains all the information you need to create libraries for new parts on [Circuito.io](circuito.io).
+This guide contains all the information you need to create libraries for new parts on [Circuito.io](https://circuito.io).
 
 Our library coding principles:
 * Encapsulation - every component has it's own c++ class.
