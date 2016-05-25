@@ -1,5 +1,5 @@
-Circuito Library Generation Guide
-=================================
+Circuito.io Library Generation Guide
+====================================
 
 This guide contains all the information you need to create libraries for new parts on [Circuito.io](https://circuito.io).
 
