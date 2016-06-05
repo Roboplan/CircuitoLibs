@@ -8,6 +8,7 @@ Our library coding principles:
 * Modularity - code is often reused. We have created base classes which contain frequently used patterns.
 * Readbility - our code must always be clear and readable to newcomers.
 * Credit - always reference and credit external code libraries you use or code snippets you copy.
+* Standartization - always use similar components for reference so the interface remains intuitive.
 
 
 Repo Structure
